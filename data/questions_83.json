@@ -1,0 +1,45 @@
+{
+    "_comment": "The first choice in each 'choices' array is the correct answer.",
+    "questions": [
+        {
+            "question": "What is Flask in Python?",
+            "choices": ["A web framework", "A database", "A programming language", "An operating system"]
+        },
+        {
+            "question": "Which command is used to install Flask?",
+            "choices": ["pip install flask", "npm install flask", "apt-get install flask", "brew install flask"]
+        },
+        {
+            "question": "What is the default port number for a Flask application?",
+            "choices": ["5000", "8000", "8080", "3000"]
+        },
+        {
+            "question": "Which HTTP method is used to retrieve data from a server?",
+            "choices": ["GET", "POST", "PUT", "DELETE"]
+        },
+        {
+            "question": "Which HTTP method is used to submit data to be processed to a server?",
+            "choices": ["POST", "GET", "PUT", "DELETE"]
+        },
+        {
+            "question": "In Flask, which decorator is used to define a route?",
+            "choices": ["@app.route", "@app.path", "@app.url", "@app.endpoint"]
+        },
+        {
+            "question": "What is the purpose of the 'render_template' function in Flask?",
+            "choices": ["To render HTML templates", "To connect to a database", "To handle HTTP requests", "To start the Flask server"]
+        },
+        {
+            "question": "Which of the following is a valid HTTP status code for a successful request?",
+            "choices": ["200", "404", "500", "301"]
+        },
+        {
+            "question": "What is the purpose of the 'request' object in Flask?",
+            "choices": ["To handle incoming HTTP requests", "To send HTTP responses", "To manage the Flask application", "To render templates"]
+        },
+        {
+            "question": "Which command is used to run a Flask application?",
+            "choices": ["flask run", "python run", "flask start", "python start"]
+        }
+    ]
+}

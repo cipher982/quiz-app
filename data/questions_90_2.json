@@ -1,0 +1,45 @@
+{
+    "_comment": "The first choice in each 'choices' array is the correct answer.",
+    "questions": [
+        {
+            "question": "Which Python module is commonly used for making HTTP requests to APIs?",
+            "choices": ["requests", "http", "urllib", "apilib"]
+        },
+        {
+            "question": "What Python data structure is most similar to JSON format?",
+            "choices": ["Dictionary", "List", "Tuple", "Set"]
+        },
+        {
+            "question": "How do you open a file in write mode in Python?",
+            "choices": ["open('file.txt', 'w')", "open('file.txt', 'r')", "open('file.txt', 'a')", "open('file.txt', 'x')"]
+        },
+        {
+            "question": "Which method is used to add a key-value pair to a Python dictionary?",
+            "choices": ["dict[key] = value", "dict.add(key, value)", "dict.insert(key, value)", "dict.append(key, value)"]
+        },
+        {
+            "question": "What does the 'r' mode stand for when opening a file in Python?",
+            "choices": ["Read", "Write", "Append", "Execute"]
+        },
+        {
+            "question": "Which Python function is used to generate a random number?",
+            "choices": ["random.randint()", "math.random()", "random.generate()", "random.number()"]
+        },
+        {
+            "question": "How do you import a module in Python?",
+            "choices": ["import module_name", "include module_name", "use module_name", "require module_name"]
+        },
+        {
+            "question": "What is the correct way to start a for loop in Python?",
+            "choices": ["for item in list:", "for (item in list)", "for each item in list:", "foreach item in list:"]
+        },
+        {
+            "question": "Which method is used to remove whitespace from the beginning and end of a string?",
+            "choices": ["strip()", "trim()", "clean()", "remove_whitespace()"]
+        },
+        {
+            "question": "How do you check if a key exists in a dictionary?",
+            "choices": ["if key in dict:", "if key exists in dict:", "if dict.haskey(key):", "if dict.contains(key):"]
+        }
+    ]
+}

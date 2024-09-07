@@ -1,0 +1,45 @@
+{
+    "_comment": "The first choice in each 'choices' array is the correct answer.",
+    "questions": [
+        {
+            "question": "What is the purpose of the 'json.dumps()' function in Python?",
+            "choices": ["To convert Python objects to JSON strings", "To parse JSON strings", "To read JSON files", "To write JSON files"]
+        },
+        {
+            "question": "Which mode should be used when opening a file to write binary data, such as images?",
+            "choices": ["wb", "r", "w", "rb"]
+        },
+        {
+            "question": "What is the recommended way to handle potential errors when making API requests?",
+            "choices": ["Check the status code of the response", "Use a try-except block", "Ignore errors", "Print error messages"]
+        },
+        {
+            "question": "Which header should be set when requesting JSON data from the 'icanhazdadjoke' API?",
+            "choices": ["Accept: application/json", "Content-Type: application/json", "Accept: text/plain", "Content-Type: text/plain"]
+        },
+        {
+            "question": "What is the purpose of a Replit database in the context of the dad jokes challenge?",
+            "choices": ["To store joke IDs", "To store entire jokes", "To cache API responses", "To manage user preferences"]
+        },
+        {
+            "question": "When working with the Spotify API, what is an important step before making requests?",
+            "choices": ["Get and verify your access token", "Set up a database", "Install additional libraries", "Create a user interface"]
+        },
+        {
+            "question": "What is an API mashup?",
+            "choices": ["Combining data from multiple APIs", "Creating a new API", "Updating an existing API", "Testing API endpoints"]
+        },
+        {
+            "question": "Which API was used in combination with NewsAPI to summarize news articles?",
+            "choices": ["OpenAI", "Google News", "Bing News", "Reuters"]
+        },
+        {
+            "question": "What is a key difference between NewsAPI and OpenAI in terms of data formatting?",
+            "choices": ["OpenAI has its own library for JSON formatting, while NewsAPI requires manual formatting", "NewsAPI has its own library for JSON formatting, while OpenAI requires manual formatting", "Both APIs require manual JSON formatting", "Both APIs have their own libraries for JSON formatting"]
+        },
+        {
+            "question": "What was the main goal of the Day 95 challenge?",
+            "choices": ["Create a daily track generator combining top hits and top news", "Build a weather application", "Develop a dad joke database", "Design a user authentication system"]
+        }
+    ]
+}
